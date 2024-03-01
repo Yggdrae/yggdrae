@@ -1,4 +1,5 @@
 ### Hi there 👋
+Tenho 24 anos, moro em Salto - SP.
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC - Indaiatuba.
 Atualmente no segundo semestre.
