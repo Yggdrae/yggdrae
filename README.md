@@ -1,5 +1,5 @@
 <p align="center">
-    ![alt text](https://github.com/Yggdrae/yggdrae/sephiroth.gif) ![alt text](https://github.com/Yggdrae/yggdrae/cloud.gif)
+    ![Sephiroth](https://github.com/Yggdrae/yggdrae/blob/main/sephiroth.gif) ![Cloud](https://github.com/Yggdrae/yggdrae/blob/main/cloud.gif)
 </p>
 
 <p align="center">
