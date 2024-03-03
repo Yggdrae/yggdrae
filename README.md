@@ -9,3 +9,7 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats)"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yggdrae&theme=dark"/></a>
 </p>
+
+<p align="center">
+    <a href="https://www.instagram.com/vc_nicacio/"><img src="https://github.com/Yggdrae/yggdrae/blob/main/instagram.png"></img></a>  <a href="https://www.linkedin.com/in/vcnicacio/"><img src="https://github.com/Yggdrae/yggdrae/blob/main/linkedin.png"></img></a>
+</p>
