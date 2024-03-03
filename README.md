@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-    <a href="https://www.instagram.com/vc_nicacio/"><img src="https://github.com/Yggdrae/yggdrae/blob/main/instagram.png"></img></a>  <a href="https://www.linkedin.com/in/vcnicacio/"><img src="https://github.com/Yggdrae/yggdrae/blob/main/linkedin.png"></img></a>
+    <a href="https://www.facebook.com/victorcnicacio"><img src="https://github.com/Yggdrae/yggdrae/blob/main/facebook.png"></img></a> <a href="https://www.instagram.com/vc_nicacio/"><img src="https://github.com/Yggdrae/yggdrae/blob/main/instagram.png"></img></a>  <a href="https://www.linkedin.com/in/vcnicacio/"><img src="https://github.com/Yggdrae/yggdrae/blob/main/linkedin.png"></img></a>
 </p>
