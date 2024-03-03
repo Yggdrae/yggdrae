@@ -1,8 +1,4 @@
-### Hi there 👋
-Tenho 24 anos, moro em Salto - SP.
-
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC - Indaiatuba.
-Atualmente no segundo semestre.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yggdrae&theme=dark&border_radius=15)](https://git.io/streak-stats)
 
 <!--
 **Yggdrae/yggdrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
