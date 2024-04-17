@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+    <img src="https://www.codewars.com/users/Yggdrae/badges/large?logo=false"/>
+</p>
+
+<p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yggdrae&theme=dark&border_radius=15"/></a>
 </p>
 
