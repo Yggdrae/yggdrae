@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="https://github.com/Yggdrae/yggdrae/blob/main/cloud.gif" width="80"/> 
   Yggdrae • Victor C. Nicacio 
-  <img src="https://github.com/Yggdrae/yggdrae/blob/main/sephiroth.gif" width="80"/>
 </h1>
 
-<h3 align="center"><em>"No Cloud, no data..."</em></h3>
+<h3 align="center">
+  <img src="https://github.com/Yggdrae/yggdrae/blob/main/cloud.gif" width="80"/> 
+  <em>"No Cloud, no data..."</em>
+  <img src="https://github.com/Yggdrae/yggdrae/blob/main/sephiroth.gif" width="80"/>
+</h3>
 
 <p align="center">
   Desenvolvedor full stack apaixonado por tecnologia. Inspirado por mundos fantásticos e movido por código limpo.
@@ -55,10 +57,4 @@
   <a href="https://www.facebook.com/victorcnicacio">
     <img src="https://github.com/Yggdrae/yggdrae/blob/main/facebook.png" height="50"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=100&section=footer&text=Keep%20Coding...&fontSize=18&fontColor=white" />
 </p>
